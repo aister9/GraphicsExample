@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\Ataraxia\source\repos\graphicsPractice\graphicsPractice\Circle.h(13,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ataraxia\source\repos\graphicsPractice\graphicsPractice\Circle.h(30,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ataraxia\source\repos\graphicsPractice\graphicsPractice\Main.cpp(22,53): warning C4305: 'argument': truncation from 'double' to 'float'
+  graphicsPractice.vcxproj -> C:\Users\Ataraxia\source\repos\graphicsPractice\Debug\graphicsPractice.exe
